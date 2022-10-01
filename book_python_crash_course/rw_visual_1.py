@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-from random_walk_15_3_1 import RandomWalk
+from random_walk import RandomWalk
 
 # 创建一个RandomWalk实例。
 rw = RandomWalk()
